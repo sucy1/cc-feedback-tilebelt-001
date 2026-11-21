@@ -1,0 +1,5 @@
+来源仓库：https://github.com/mapbox/tilebelt
+冻结 commit：a6aaec0fe8a8c70dccc3f5435986ecba80f448b0
+许可证：MIT
+导入日期：2026-11-21
+说明：本目录为评测底座，已剥离上游 git 历史，仅保留代码快照。
